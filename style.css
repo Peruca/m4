@@ -1,3 +1,70 @@
 .div1{
     background-color: lightsteelblue;
+    text-align: center; 
 }
+
+
+.header1{
+    background-color: salmon;
+    text-align: center; 
+}
+
+.section1{
+    background-color: lightgreen;
+    text-align: center; 
+}
+
+.article1{
+    /* background-color: royalblue; */
+    text-align: center; 
+}
+
+
+.fooster1{
+    background-color: lemonchiffon;
+    text-align: center; 
+}
+
+.nav1{
+    background-color: plum;
+    text-align: center; 
+     
+
+}
+
+h1,h2,body{
+    margin:0px;
+
+}
+
+button{
+    padding:8px;
+    margin-top: 10px;
+    margin-bottom: 10px; 
+}
+
+img{
+    max-width: 100%;
+}
+
+.textSize{
+    font-size: 2rem;
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 2rem;
+}
+
+a:hover{
+    color: brown;
+}
+
+
+/* ponto e virgula pra comentar, agora q ele me fala isso >:(*/
+/* alem de px vc pode usar em ou rem, mais o rem em e responsivel e px e fixo, ent pra sistemas reswponsiveis usa rem docinho*/
+/* a:hover{
+    
+} e para fazer algo qaundo aproximar o cursor no link*/
